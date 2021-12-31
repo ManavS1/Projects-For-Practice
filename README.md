@@ -1,3 +1,3 @@
 # Projects-For-Practice
 
-This repo contains all projects for practice purpose
+This repo contains all my projects & design which i created for practice purpose.
