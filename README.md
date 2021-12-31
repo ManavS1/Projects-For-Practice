@@ -1,4 +1,4 @@
-# Projects-For-Practice
+# Web_Dev_Practice_Projects
 
 This repo is for all my projects & design which i created for practice purpose.
 
